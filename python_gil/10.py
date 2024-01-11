@@ -22,6 +22,5 @@ def funky(a,b):
     ic(result)
     return result
 
-# funky(2,3)
 if __name__ == "__main__":
     funky(2,3)
